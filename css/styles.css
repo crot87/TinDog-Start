@@ -1,5 +1,5 @@
 body {
-  font-family: "Montserrat"
+  font-family: "Montserrat";
 }
 
 h1 {
@@ -27,6 +27,7 @@ h3 {
 p {
   color: black;
 }
+
 .container-fluid {
   padding: 3% 15% 7%;
 }
@@ -143,15 +144,10 @@ p {
   padding: 7% 15%;
 }
 
+.container-fluid-3 {
+  padding: 3% 5%;
 }
-.cta-heading {
-  font-family: "Montserrat";
-  font-size: 3.5rem;
-  font-weight: 900;
-  line-height: 1.5;
-  color: white;
 
-}
 /* Footer Section */
 #footer {
   background-color: #fff;
@@ -160,13 +156,12 @@ p {
 }
 
 .container-fluid-4 {
-  padding: 3% 5%;
-  color: #black;
-  background-color: #fff;
+  padding: 3% 10%;
 }
 
 .smm {
   color: black;
+  margin: 20px 10px;
 }
 
 @media (max-width: 1028px) {
