@@ -5,12 +5,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat";
   font-weight: 900;
-  line-height: 1.5;
 }
 
-h2 {
-  font-size: 2.5rem;
-}
 
 h3 {
   font-size: 1.5rem;
@@ -93,7 +89,7 @@ p {
   color: #ff4c68;
 }
 
-/* Testimonials */
+/* Testimonials Section */
 #testimonials {
   text-align: center;
   background-color: #ef8172;
@@ -101,6 +97,10 @@ p {
   position: relative;
 }
 
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
 .carousel-item {
   padding: 7% 15%;
 }
@@ -128,6 +128,11 @@ p {
   text-align: center;
 }
 
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
 .pricing-column {
   padding: 3% 2%;
 }
