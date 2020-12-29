@@ -67,7 +67,7 @@ h3 {
   width: 60%;
   transform: rotate(25deg);
 }
-.title-image:hover {
+.title-image:active {
 transform: rotate(0deg);
 }
 
