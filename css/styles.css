@@ -109,6 +109,7 @@ p {
 /* Testimonials Section */
 #testimonials {
   position: relative;
+  background-color: #ef8172;
 }
 
 .testimonial-text {
@@ -126,6 +127,7 @@ p {
 
 #press {
   padding-bottom: 3%;
+  background-color: #ef8172;
 }
 
 .press-logo {
